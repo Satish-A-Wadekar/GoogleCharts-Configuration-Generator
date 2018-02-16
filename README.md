@@ -1,7 +1,7 @@
 # GoogleCharts-Configuration-Generator
 Hello friends today we are going to learn how to Generate the configuration of google chart and Implement it in your chart with some easy steps.
 
-# Objectives & Scope of Google chart configuration generator.
+## Objectives & Scope of module.
 
 Google has developed a very powerful library for charts, which has around 28 chart types. but to implement those charts in your application you need to go through their all configurations and understand each and every option which is very huge in numbers, now here's the problem, if you want to apply some options on your chart then you need to do this manually with some RND from scratch. 
 Google has given so many configurations per chart which we cannot go through, in shorter period of time so it's quite tedious and time-consuming process to test all those options on your chart.
@@ -12,14 +12,14 @@ So, to skip this time consuming and tedious process and implement any chart with
 with the help of my configuration generator module, we can apply any listen options and make our chart very customizable. 
 it makes you to finalise your chart by play with available options and fine tuning, all you need to do is just keep applying option until you finalise your chart that's it.
 
-# Key Features of my module is
+## Key Features
 1. just select chart type and then all existing options will be available for you to play with it.
 2. Test any option on your selected chart on the fly
 
-# How it works
+## How it works
 in my module you just need to select chart of which you want to generate configuration JSON, once you select, all the existing google chart settings gets render on page with options where you can change their values and add custom values as per your choice. you can test your entered customs values on the fly, even you can try dummy JSON data on chart.
 
-# How to use this Module
+## How to use this Module
 > Please find the video tutorial where i have explain the demonstration this module.
 ```
   https://www.youtube.com/watch?v=3j1HCgEvbDQ&feature=youtu.be
@@ -28,7 +28,7 @@ in my module you just need to select chart of which you want to generate configu
 ```
   http://googlecharts-configuration-generator.com/
 ```
-We will go step by step on process of this module.
+We will go step by step of this module.
 
 on top right there is a Help menu in which I have mentioned all the explanation of Google settings generator, though I am going to explain here step by step.
 
