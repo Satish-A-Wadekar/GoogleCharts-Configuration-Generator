@@ -20,11 +20,11 @@ it makes you to finalise your chart by play with available options and fine tuni
 in my module you just need to select chart of which you want to generate configuration JSON, once you select, all the existing google chart settings gets render on page with options where you can change their values and add custom values as per your choice. you can test your entered customs values on the fly, even you can try dummy JSON data on chart.
 
 ## How to use this module
-> Please find the video tutorial where i have explain the demonstration this module.
+> Please find the video tutorial <a target="_blank" href="https://www.youtube.com/watch?v=3j1HCgEvbDQ&feature=youtu.be">here</a>, where i have explain the demonstration this module.
 ```
   https://www.youtube.com/watch?v=3j1HCgEvbDQ&feature=youtu.be
 ```
-> Please find module URL here.
+> Please find module URL <a target="_blank" href="http://googlecharts-configuration-generator.com/">here</a>.
 ```
   http://googlecharts-configuration-generator.com/
 ```
